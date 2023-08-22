@@ -7,5 +7,8 @@ That said, if you are curious, I will document the courses I take throughout my 
 - Spring 2023
   - `CSE 6040`: Computing for Data Analysis (Python) [Dr. Richard Vuduc]
   - `ISYE 6051`: Intro to Analytics Modeling (R) [Dr. Joel Sokol]
-  - `MGT 8803`: Business Fundamentals for Analytics [Wechsler, Schneider, Jayaraman, Myers, Buchanan]
+- Summer 2023
   - `ISYE 6740`: ML1 Computational Data Analysis [Dr. Yao Xie]
+- Fall 2023
+  - `ISYE 7406`: Data Mining & Statistical Learning [Dr. Yajun Mei]
+  - `CSE 8803`: Applied Natural Language Processing [Dr. Mahdi Roozbahani]
