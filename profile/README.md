@@ -12,3 +12,6 @@ That said, if you are curious, I will document the courses I take throughout my 
 - Fall 2023
   - `ISYE 7406`: Data Mining & Statistical Learning [Dr. Yajun Mei]
   - `CSE 8803`: Applied Natural Language Processing [Dr. Mahdi Roozbahani]
+- Spring 2024:
+  - `CSE 6242`: Data & Visual Analytics [Dr. Duen Horng Chau, Dr. Mahdi Roozbahani]
+  - `ISYE 6644`: Simulation [Dr. David Goldsman]
