@@ -15,3 +15,8 @@ That said, if you are curious, I will document the courses I take throughout my 
 - Spring 2024:
   - `CSE 6242`: Data & Visual Analytics [Dr. Duen Horng Chau, Dr. Mahdi Roozbahani]
   - `ISYE 6644`: Simulation [Dr. David Goldsman]
+- Summer 2024:
+  - Took the semester off to focus on the NBA schedule
+- Fall 2024:
+  - `MGT 8803`: Business Fundamentals
+  - `CS 7637`: Knowledge-Based Artificial Intelligence
