@@ -20,3 +20,6 @@ That said, if you are curious, I will document the courses I take throughout my 
 - Fall 2024:
   - `MGT 8803`: Business Fundamentals
   - `CS 7637`: Knowledge-Based Artificial Intelligence
+- Spring 2024:
+  - `MGT 6203`: Data Analytics Business
+  - `MGT 6748`: Applied Analytics Practicum
